@@ -38,13 +38,9 @@ I enjoy solving problems, designing scalable backends, and delivering real-world
 - Docker (basic)
 - Git, GitHub, GitHub Actions (basic)
 
-## 📌 Featured Projects
-Check the pinned repositories below to see real projects including:
-- Backend APIs (Laravel & AdonisJS)
-- Full-stack web applications
-- Flutter mobile apps
-- Deployment configurations
+## 📊 GitHub Stats
 
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarsenusi&show_icons=true&theme=default)
 
 ## 📫 Contact
 - Email: omar@senusi.me
