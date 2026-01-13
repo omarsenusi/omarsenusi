@@ -38,10 +38,6 @@ I enjoy solving problems, designing scalable backends, and delivering real-world
 - Docker (basic)
 - Git, GitHub, GitHub Actions (basic)
 
-## 📊 GitHub Stats
-
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarsenusi&show_icons=true&theme=default)
-
 ## 📫 Contact
 - Email: omar@senusi.me
 - GitHub: https://github.com/omar.senusi
