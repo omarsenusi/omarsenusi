@@ -17,6 +17,6 @@ I enjoy solving problems, designing scalable backends, and delivering real-world
 </p>
 
 ## 📫 Contact
-- Email: omar@senusi.me
-- GitHub: https://github.com/omar.senusi
+- Email: omarsenusi.mail@gmail.com
+- GitHub: https://github.com/omarsenusi
 
