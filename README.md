@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Omar Senusi 👋
 
-<!--
-**omarsenusi/omarsenusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused Full Stack Developer with strong experience in building complete systems — from APIs to deployment.
 
-Here are some ideas to get you started:
+I enjoy solving problems, designing scalable backends, and delivering real-world applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build scalable RESTful APIs using **Laravel** and **AdonisJS (Node.js)**
+- Develop mobile apps using **Flutter** and **React Native (basic)**
+- Create practical and functional frontends using **Vue, React, and Next.js**
+- Deploy and manage applications on **Linux VPS with Nginx**
+- Troubleshoot production issues and optimize performance
+
+## 🛠 Tech Stack
+
+### 🔹 Backend
+- Laravel (PHP)
+- Node.js with AdonisJS
+- Go (basic)
+- REST APIs, Authentication, Roles & Permissions
+
+### 🔹 Mobile
+- Flutter, Dart
+- React Native (basic)
+- API integration, state management
+
+### 🔹 Frontend (Practical Experience)
+- Vue.js, React.js, Next.js
+- Responsive layouts, API integration
+
+### 🔹 DevOps & Tools
+- Linux VPS, Nginx
+- Docker (basic)
+- Git, GitHub, GitHub Actions (basic)
+
+## 📌 Featured Projects
+Check the pinned repositories below to see real projects including:
+- Backend APIs (Laravel & AdonisJS)
+- Full-stack web applications
+- Flutter mobile apps
+- Deployment configurations
+
+## 📫 Contact
+- Email: omar@senusi.me
+- GitHub: https://github.com/omar.senusi
