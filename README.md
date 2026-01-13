@@ -13,6 +13,11 @@ I enjoy solving problems, designing scalable backends, and delivering real-world
 
 ## 🛠 Tech Stack
 
+## 🧰 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,adonis,go,js,dart,flutter,react,vue,nextjs,postgres,mysql,nginx,docker,git,github,postman,linux,vscode" />
+</p>
+
 ### 🔹 Backend
 - Laravel (PHP)
 - Node.js with AdonisJS
@@ -40,10 +45,6 @@ Check the pinned repositories below to see real projects including:
 - Flutter mobile apps
 - Deployment configurations
 
-## 🧰 Languages and Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,adonis,go,js,dart,flutter,react,vue,nextjs,mysql,nginx,docker,git,github,postman,linux,vscode" />
-</p>
 
 ## 📫 Contact
 - Email: omar@senusi.me
