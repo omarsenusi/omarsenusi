@@ -40,6 +40,12 @@ Check the pinned repositories below to see real projects including:
 - Flutter mobile apps
 - Deployment configurations
 
+## 🧰 Languages and Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,adonis,go,js,dart,flutter,react,vue,nextjs,mysql,nginx,docker,git,github,postman,linux,vscode" />
+</p>
+
 ## 📫 Contact
 - Email: omar@senusi.me
 - GitHub: https://github.com/omar.senusi
+
